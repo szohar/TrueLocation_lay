@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TruelocationRev3.0-altium-import")(type "KiCad")(uri "${KIPRJMOD}/TruelocationRev3.0-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "TruelocationR3_all_project_symbols")(type "KiCad")(uri "${KIPRJMOD}/TruelocationR3_all_project_symbols.kicad_sym")(options "")(descr ""))
+)

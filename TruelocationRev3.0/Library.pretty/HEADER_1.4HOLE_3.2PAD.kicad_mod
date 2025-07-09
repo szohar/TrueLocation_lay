@@ -1,0 +1,90 @@
+(footprint "HEADER_1.4HOLE_3.2PAD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.447466 -1.736533 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0f46edc8-6c74-4d37-bd81-5d04b55882b6")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "TP-1.4H-3.2P"
+		(at 0 0.18669 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8000f9d1-0b5f-45e8-a53f-86e19a702360")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ecc0b743-14ed-429d-ac8e-282d23e4e32c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d42bd61-accc-486f-bc33-6e1ce13740db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "31a65f80-f3a8-48a3-ba35-3ad3f2971cfa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.2 2.2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "a28cbf1c-8dd3-4665-89ac-453d46b56fce")
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 3.2 3.2)
+		(layers "F.Cu" "F.Mask")
+		(uuid "118e353b-2960-4575-9501-afd2eab62954")
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 3.2 3.2)
+		(layers "B.Cu" "B.SilkS" "B.Mask")
+		(uuid "6b74920f-fe15-4fb6-be8d-af06f52b4258")
+	)
+)

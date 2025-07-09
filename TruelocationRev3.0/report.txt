@@ -1,0 +1,534 @@
+Updated footprint C134 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R24 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C163 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C180 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB15 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C117 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L4 (Library:COIL_MOLD_W4.2L4.2H1.88_2PIN): : OK
+Updated footprint D9 (Library:DIODE_DFN1006 2PIN): : OK
+Updated footprint R20 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R175 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C113 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R193 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C132 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R125 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L6 (Library:CAP_CHIP_0603): : OK
+Updated footprint R191 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C169 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R19 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R196 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C174 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C149 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C150 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L5 (Library:CAP_CHIP_0603): : OK
+Updated footprint R185 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R159 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C107 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R204 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C118 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C170 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C145 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U33 (Library:IC_QFN_W4.15L3.15H1_15PIN): : OK
+Updated footprint C126 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C112 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L7 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint R206 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C168 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C119 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U35 (Library:IC _DFN_W1L 1H0.43_ 5PIN): : OK
+Updated footprint R119 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R120 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R127 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB11 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U34 (Library:IC_SO_0.65/W4.4L3.0H1.2_8PIN): *** library footprint not found ***
+Updated footprint R228 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U28 (Library:IC_SC70-6_5OF6PIN): : OK
+Updated footprint C124 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C99 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R148 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R25 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB10 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB13 (Library:CAP_CHIP_0603): : OK
+Updated footprint D8 (Library:DIODE_SOT883_3PIN): : OK
+Updated footprint R194 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R170 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R138 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C148 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R203 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U30 (Library:IC_SOT-23_6PIN): : OK
+Updated footprint C120 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R143 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R226 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R126 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint T3 (Library:ACM2012D W2.2L1.4H1.3_4PIN): : OK
+Updated footprint R168 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB14 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C181 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R123 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R192 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R158 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R162 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R202 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB12 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R172 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J15 (Library:CON 595 3PIN): : OK
+Updated footprint R195 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L10 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint R169 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C111 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C172 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C106 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C176 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C187 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U27 (Library:IC_DCK_W2.15L1.40H1.10_6PIN): : OK
+Updated footprint R166 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C135 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R174 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R150 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint Y2 (Library:XTAL_CHIP_W5.2L7.2H2_4PIN): : OK
+Updated footprint R205 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R180 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C184 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C114 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U7 (Library:IC_0.65/W2.6L2.1H1.1_8PIN): *** library footprint not found ***
+Updated footprint C108 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R197 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R121 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C157 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R179 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R141 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R131 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R171 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C162 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R142 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C153 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R227 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R137 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R183 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C141 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint C147 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L9 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint C182 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R186 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C138 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C146 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint Q2 (Library:IC_SOT-223_4PIN): : OK
+Updated footprint R208 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R129 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R130 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C183 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C179 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R124 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U26 (Library:IC _DFN_W1L 1H0.43_ 5PIN): : OK
+Updated footprint C166 (Library:CAP_CHIP_0603): : OK
+Updated footprint C129 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C130 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J13 (Library:CON 595 3PIN): : OK
+Updated footprint R207 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C188 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C152 (Library:CAP_CHIP_0603): : OK
+Updated footprint C136 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C155 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C105 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C19 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R134 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C121 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R147 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C156 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R145 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint X1 (Library:XTAL_CHIP_W3.3L1.6H0.9_2PIN): : OK
+Updated footprint C154 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R155 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C115 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C143 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U29 (Library:IC_DCK_W2.15L1.40H1.10_6PIN): : OK
+Updated footprint R140 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U25 (Library:IC _DFN_W1L 1H0.43_ 5PIN): : OK
+Updated footprint C167 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J14 (Library:USB_ZX62-AB-5PA_5PIN): : OK
+Updated footprint R199 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C164 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C165 (Library:CAP_CHIP_0603): : OK
+Updated footprint C100 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L8 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint C142 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint C161 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R200 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C123 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R163 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U32 (Library:IC_QUAD_0.5/W14L14H1.6_100PIN): *** library footprint not found ***
+Updated footprint Q1 (Library:IC_DCK_W2.15L1.40H1.10_6PIN): : OK
+Updated footprint C160 (Library:CAP_CHIP_0603): : OK
+Updated footprint R139 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R144 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R132 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C137 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R181 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R128 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R122 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R176 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R209 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R160 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C185 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C103 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C144 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R153 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R149 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J12 (Library:CON 628 3PIN): : OK
+Updated footprint C122 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R164 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J17 (Library:CON_BM28B0.6_HRS_30PIN): : OK
+Updated footprint C110 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C125 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C158 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C101 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C177 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R167 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C173 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C178 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R165 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R161 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C127 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R184 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R178 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C131 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R152 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C186 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R156 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R157 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R187 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R201 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C102 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C159 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R136 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C109 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C116 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R189 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R210 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint D7 (Library:DIODE_DO-214AC): : OK
+Updated footprint R177 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J16 (Library:CON 628 3PIN): : OK
+Updated footprint C175 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R190 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C133 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R135 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R133 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R188 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R198 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R173 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C171 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R182 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R154 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R151 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U31 (Library:IC_SOT-23_6PIN): : OK
+Updated footprint C128 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R211 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R146 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C151 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R92 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C89 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint H2 (Library:): *** library footprint not found ***
+Updated footprint C83 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C87 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R16 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C27 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R14 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R71 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C4 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint L2 (Library:CAP_CHIP_0402): : (no changes)
+Updated footprint C44 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R18 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R98 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R37 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R102 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R95 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C41 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U2 (Library:IC_QFN_W4.6L2.6H1_21PIN): : OK
+Updated footprint C84 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C70 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C10 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R61 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R4 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R35 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB1 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Error: Updated footprint U10 (Library:IC_MLF_0.5/W3L5H1.0_16PIN): *** library footprint not found ***
+Updated footprint C76 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R33 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C14 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R224 (Library:CAP_CHIP_0402): : OK
+Updated footprint R60 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint Q3 (Library:TRANS_C3T3C_0.8X0.6 3PIN): : (no changes)
+Error: Updated footprint H7 (Library:): *** library footprint not found ***
+Error: Updated footprint H4 (Library:): *** library footprint not found ***
+Updated footprint C35 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint R13 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R57 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R6 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R31 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint J9 (Library:HEADER_0/0_W80L80/1.1_M_1PIN): *** library footprint not found ***
+Error: Updated footprint TP6 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint C51 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint SW1 (Library:SWITCH_W3.9L2.9H2.5_6PIN): : OK
+Updated footprint R45 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C20 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C77 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C21 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C68 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J5 (Library:HEADER_1.4HOLE_3.2PAD): : OK
+Updated footprint R32 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint J10 (Library:PLUG 50/50_W9.9061L19.05/30.378_6PIN): *** library footprint not found ***
+Updated footprint R87 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R40 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C66 (Library:CAP_CHIP_0603): : OK
+Updated footprint R44 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J8 (Library:HEADER_1.4HOLE_3.2PAD): : OK
+Error: Updated footprint TP12 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint C25 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP15 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint R59 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint J1 (Library:HEADER_0/0_W80L80/1.1_M_1PIN): *** library footprint not found ***
+Error: Updated footprint  (Library:): *** library footprint not found ***
+Info: Updated footprint U12 (Library:DIODE_W1.25L1.05H0.35_8PIN): : (no changes)
+Updated footprint R80 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C39 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R83 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint FID3 (Library:): *** library footprint not found ***
+Error: Updated footprint TP10 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint C52 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C78 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB8 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R212 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint ANT1 (Library:IC_ANT_W6.1L4.1H0.5_6PIN): : (no changes)
+Updated footprint C7 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB5 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C50 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C17 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U22 (Library:IC_0.4/W0.79L0.79H0.59_4PIN): *** library footprint not found ***
+Error: Updated footprint U15 (Library:IC_BGA_0.4/W0.7L1.1H0.4_6PIN): *** library footprint not found ***
+Updated footprint R104 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB3 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R23 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C13 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R91 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint J6 (Library:D-TYPE_MUSBR_7PIN): : (no changes)
+Updated footprint R101 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C74 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J7 (Library:HEADER_1.4HOLE_3.2PAD): : OK
+Updated footprint R2 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C94 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C15 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C56 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R90 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R34 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R89 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R118 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C82 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint U5 (Library:IC_SOT-23_5OF6PIN): : (no changes)
+Updated footprint C26 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint R86 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint D4 (Library:LED_CHIP_W1.15L1.15H0.61_4PIN): : OK
+Updated footprint R116 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint U9 (Library:COIL  W1.0L0.5H0.38_3PIN): : (no changes)
+Updated footprint C48 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R65 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C9 (Library:CAP_CHIP_0603): : OK
+Updated footprint R7 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint D5 (Library:LED_CHIP_0402_W24L44H28): : OK
+Updated footprint R21 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint D6 (Library:LED_CHIP_0402_W24L44H28): : OK
+Updated footprint C96 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP13 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Error: Updated footprint U19 (Library:IC_0.35/W1.15L1.05H0.40_8PIN): *** library footprint not found ***
+Updated footprint C53 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R11 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint J11 (Library:HEADER_0/0_W80L80/1.1_M_1PIN): *** library footprint not found ***
+Updated footprint R56 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U11 (Library:IC_BGA_0.4/W1.1L1.1H0.4_9PIN): *** library footprint not found ***
+Info: Updated footprint U24 (Library:IC_QFN_W1.5L1.5H0.50_6PIN): : (no changes)
+Updated footprint R70 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R117 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C63 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C12 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint J2 (Library:HEADER_0/0_W80L80/1.1_M_1PIN): *** library footprint not found ***
+Info: Updated footprint D10 (Library:DIODE_SOD-323): : (no changes)
+Updated footprint R49 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C72 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C75 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C47 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C92 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C30 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R73 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP9 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Error: Updated footprint H3 (Library:): *** library footprint not found ***
+Updated footprint C81 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C71 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R48 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R99 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C46 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C42 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C29 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C11 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C24 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP11 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint C85 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R69 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R82 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C97 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R97 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint T2 (Library:COIL_MOLD_2.1x1.35_6PIN): : (no changes)
+Updated footprint R53 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C73 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C67 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R50 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U20 (Library:IC_0.55/W1.7L0.90H0.7_6PIN): *** library footprint not found ***
+Updated footprint C90 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint H1 (Library:): *** library footprint not found ***
+Updated footprint R114 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP4 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint C209 (Library:CAP_CHIP_0402): : OK
+Updated footprint C23 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C64 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C43 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C62 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R51 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint U3 (Library:COIL_MOLD_1.55x1.25_5PIN): : (no changes)
+Updated footprint R54 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R47 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R39 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint U17 (Library:DIODE_W1.25L1.05H0.35_8PIN): : (no changes)
+Updated footprint R105 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C88 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB6 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C59 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R38 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R75 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint U16 (Library:IC_QFN_0.5W2.05L2.05H1_12PIN): : OK
+Updated footprint R109 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C33 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L3 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R64 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R100 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP1 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint R63 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint T1 (Library:COIL_MOLD_2.1x1.35_6PIN): : OK
+Error: Updated footprint TP8 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint C5 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R42 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C32 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C61 (Library:CAP_CHIP_0603): : OK
+Info: Updated footprint U21 (Library:IC SO 0.65 3.1X3.1 8PIN): : (no changes)
+Updated footprint C18 (Library:CAP_CHIP_0603_W40L70H22_RFL): : OK
+Updated footprint R85 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R113 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB9 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R43 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R46 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R52 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R67 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R68 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint FID1 (Library:): *** library footprint not found ***
+Updated footprint C8 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C93 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R84 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB4 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint H6 (Library:): *** library footprint not found ***
+Updated footprint R76 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R112 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint L1 (Library:CAP_CHIP_0402): : OK
+Info: Updated footprint U14 (Library:DIODE_W1.050L1.050H0.50_6PIN): : (no changes)
+Error: Updated footprint FID5 (Library:): *** library footprint not found ***
+Error: Updated footprint U13 (Library:IC_SO_0.65/W4.4L9.7H1.2_28PIN): *** library footprint not found ***
+Updated footprint R72 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R230 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R15 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C36 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U1 (Library:IC_0.5/W1L1.5H0.54_6PIN): *** library footprint not found ***
+Updated footprint Y1 (Library:XTAL_CHIP_W3.35L2.65H20.6_4PIN): : OK
+Updated footprint R28 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R81 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U4 (Library:IC_QFN_0.5/W5.1L5.1H0.9_32PIN_KO): *** library footprint not found ***
+Updated footprint C45 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R74 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R12 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C104 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R93 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R103 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C31 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R66 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C28 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R5 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C3 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R108 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C16 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint FID4 (Library:): *** library footprint not found ***
+Updated footprint R62 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint U8 (Library:IC_QFN_W3L3.5H1.1_23PIN): : (no changes)
+Updated footprint C37 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint SW2 (Library:SWITCH_W3.9L2.9H2.5_6PIN): : OK
+Updated footprint C34 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint U6 (Library:COIL_MOLD_1.55x1.25_5PIN): : (no changes)
+Updated footprint C54 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R88 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C95 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R55 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C2 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP3 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint R29 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C49 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R10 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint D1 (Library:DIODE_SOT1061D_3PIN): : (no changes)
+Error: Updated footprint U18 (Library:IC_BGA_0.4/W0.7L1.1H0.4_6PIN): *** library footprint not found ***
+Updated footprint R79 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R26 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R1 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C1 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R225 (Library:CAP_CHIP_0402): : OK
+Updated footprint R96 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint J3 (Library:CON UFL 3PIN): : (no changes)
+Updated footprint C40 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R3 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R27 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C60 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R9 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R77 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint J4 (Library:HEADER_1.4HOLE_3.2PAD): : OK
+Updated footprint R115 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R58 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP2 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Error: Updated footprint TP5 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint C91 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C57 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R41 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C80 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R110 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R229 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R22 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint U23 (Library:IC_QFN_0.5/W4.1L4.1H0.8_25PIN): *** library footprint not found ***
+Error: Updated footprint H8 (Library:): *** library footprint not found ***
+Updated footprint FB7 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C98 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R30 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C22 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint FB2 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint FID2 (Library:): *** library footprint not found ***
+Updated footprint C86 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R36 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R107 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R17 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP14 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint R94 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C38 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R106 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C55 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C65 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C69 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Info: Updated footprint D3 (Library:LED_CHIP_W1.15L1.15H0.61_4PIN): : (no changes)
+Updated footprint C6 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R8 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint C79 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint TP7 (Library:HEADER_0/0_W80L80/0.7_M_1PIN): *** library footprint not found ***
+Updated footprint R111 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Updated footprint R78 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint D2 (Library:IC_TDFN_0.4/W1.5L1.2H0.8_6PIN): *** library footprint not found ***
+Updated footprint C58 (Library:CAP_CHIP_0402_W24L44H24_RFL): : OK
+Error: Updated footprint H5 (Library:): *** library footprint not found ***

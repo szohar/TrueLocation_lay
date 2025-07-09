@@ -1,0 +1,137 @@
+(footprint "XTAL_CHIP_W3.3L1.6H0.9_2PIN"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.273059 -1.53156 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "677e3805-5300-4582-90c2-645c8ba5aea3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.0254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "FC-135_32_7680KA-AG5"
+		(at 0 -0.18669 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "eebcc1c5-5407-4fd6-a5aa-765485699209")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "142489ff-25d5-4034-8845-5ed24f53680f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "57939e47-bd0d-4b6a-902b-14c6acb105e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "8672cecb-a38a-4492-9f36-a22193731b60")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_line
+		(start -2 1.2)
+		(end -2 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "203e095a-a55b-4f79-b33e-fd48084bff7d")
+	)
+	(fp_line
+		(start 2 -1.2)
+		(end -2 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "15395102-3c90-44b0-9d50-fcad0cb790da")
+	)
+	(fp_line
+		(start 2 1.2)
+		(end -2 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4bc85d01-793b-475a-8ded-6672f4dfdce7")
+	)
+	(fp_line
+		(start 2 1.2)
+		(end 2 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "38644f97-5edd-4e3e-9f1b-d9135cfef0a4")
+	)
+	(pad "1" smd rect
+		(at -1.25 0 180)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(uuid "26548eda-54d1-473b-8d8b-8824cdeb39cb")
+	)
+	(pad "2" smd rect
+		(at 1.25 0 180)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.05)
+		(uuid "3c653697-536e-4f9b-a5cd-a4fad242d80a")
+	)
+	(model "${KIPRJMOD}/Library.pretty/FC-135.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

@@ -1,0 +1,82 @@
+(footprint "HEADER_0_0_W80L80_0.7_M_1PIN"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.451991 -0.697358 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6e3f8959-91df-41fb-809e-61feeb713125")
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.0254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "TP27"
+		(at -0.18669 0 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e8cdde5c-863b-46f7-92b7-6188dc8ff5fa")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "82c5793f-b6a4-46e2-8cf3-4c3877ba50e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53026f4d-add0-4f2b-84d6-53f1d2ba2318")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf3ea61c-0bbd-41fa-ba8c-d43c593e8910")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.016 1.016)
+		(drill 0.7)
+		(layers "*.Cu" "*.Mask" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu"
+			"In14.Cu" "In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu"
+			"In21.Cu" "In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu"
+			"In28.Cu" "In29.Cu" "In30.Cu"
+		)
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "9e17f035-be0a-448e-ac7b-2c476df4f1df")
+	)
+)

@@ -1,0 +1,4275 @@
+Cmp-Mod V01 Created by PcbNew   date = 2025-06-29T12:26:58-0300
+
+BeginCmp
+TimeStamp = 021c9aa9-f2a9-4b8a-9e7e-7ed39fbb13da
+Path = 
+Reference = H5;
+ValeurCmp = HOLE_2;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 028dd781-0503-4cdb-8427-cbfb0f798817
+Path = 
+Reference = C58;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 02c79d24-0506-4673-9b97-f3bc63d16b4e
+Path = 
+Reference = D2;
+ValeurCmp = SON40P150X120X80-7N-D;
+IdModule  = Library:IC_TDFN_0.4/W1.5L1.2H0.8_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 0307e6b3-9814-4290-9e50-64329207ad3d
+Path = 
+Reference = R78;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0368ed62-13d4-4ed3-bc39-56287addf689
+Path = 
+Reference = R111;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 057b918f-9be7-4106-83ad-cdefaf85fd24
+Path = 
+Reference = TP7;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 0583b9fd-c2f3-48ad-aac9-aef590c54bd3
+Path = 
+Reference = C79;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 05e7edd1-051a-441a-b855-48597f968ea3
+Path = 
+Reference = R8;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 06c0f76d-c54e-4dd8-a88b-3461ed567baa
+Path = 
+Reference = C6;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 08045528-d15e-41fe-8bbc-825cd4caf00a
+Path = 
+Reference = D3;
+ValeurCmp = UHD1110-FKA;
+IdModule  = Library:LED_CHIP_W1.15L1.15H0.61_4PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 08882e99-b832-4f05-9c03-0b9c90ba691b
+Path = 
+Reference = C69;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a128f54-3a89-45c1-9f31-cce0e5ecbc88
+Path = 
+Reference = C65;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a4dc1e5-74de-440c-8199-0ac384b829b9
+Path = 
+Reference = C55;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a87ff31-b219-48e9-ae14-b45befa48e0e
+Path = 
+Reference = R106;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0c38e404-f144-461a-9257-464aefd3096e
+Path = 
+Reference = C38;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0c47343a-881a-45c1-a802-42a1f04a08dc
+Path = 
+Reference = R94;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0d178a43-30a8-45fd-bbaf-720516fb3692
+Path = 
+Reference = TP14;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 0e75abda-b29d-4b89-8bb7-c7ad4b2b45c7
+Path = 
+Reference = R17;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0ee061e4-9a82-4ee6-a6ba-0e45f0078d48
+Path = 
+Reference = R107;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 10c2810e-9219-48fe-8a6f-40a0f08c38c0
+Path = 
+Reference = R36;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 13a1c8ea-1cd0-4595-bc56-8fb8b84ddc46
+Path = 
+Reference = C86;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1411f348-5c62-4fdd-bd81-0083a5c0b83a
+Path = 
+Reference = FID2;
+ValeurCmp = [NoVal];
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 152c5912-f708-4534-a8ef-f40e07bc6406
+Path = 
+Reference = FB2;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1531a1f6-ca5a-4992-8d61-bdc9e0217d60
+Path = 
+Reference = C22;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 162f0b03-4077-48a8-8229-b9a8f67d14cd
+Path = 
+Reference = R30;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 165ea554-0125-4d21-b9ae-0f0bd26b7553
+Path = 
+Reference = C98;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 17130da0-b599-48de-acb0-62a731c0c551
+Path = 
+Reference = FB7;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 187153be-3379-4703-a209-4cac4626f17d
+Path = 
+Reference = H8;
+ValeurCmp = HOLE_2;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 18e0b16c-b251-4bcb-a3d8-26754c16db37
+Path = 
+Reference = U23;
+ValeurCmp = WQFN24_4X4_PAD;
+IdModule  = Library:IC_QFN_0.5/W4.1L4.1H0.8_25PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 1b962c00-cd7e-4a8c-a7e2-a3aa8d530423
+Path = 
+Reference = R22;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1c74420c-0cf7-4580-88be-ede6d3af6d47
+Path = 
+Reference = R229;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d21ef51-bea5-4cb2-94de-19946866a750
+Path = 
+Reference = R110;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d9a3688-9cfa-4757-96c9-9b265ce6d2b7
+Path = 
+Reference = C80;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1da8d810-c23b-4e14-adff-d1e8e353fdd6
+Path = 
+Reference = R41;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1db8b80c-1ac3-4f58-a070-245acec8e360
+Path = 
+Reference = C57;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1e33ec0b-edf1-4c43-bd9c-d4d8a811e13f
+Path = 
+Reference = C91;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f31b793-a6fb-4982-9d17-aa66e3e17cd2
+Path = 
+Reference = TP5;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 1ff00eb8-6e4f-4cac-af6f-1541301dc795
+Path = 
+Reference = TP2;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 21b842cf-d18e-4295-96eb-bd78d2cd2db8
+Path = 
+Reference = R58;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 239b9657-6272-44c3-8d77-c96a35a83ac8
+Path = 
+Reference = R115;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 243ce81e-b673-466f-8ba9-ee1da36f5f43
+Path = 
+Reference = J4;
+ValeurCmp = TP-1.4H-3.2P;
+IdModule  = Library:HEADER_1.4HOLE_3.2PAD;
+EndCmp
+
+BeginCmp
+TimeStamp = 251003fb-0a10-415c-8757-c9216abe168e
+Path = 
+Reference = R77;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2534e059-1cb4-4e43-b881-7d6f7e132f1f
+Path = 
+Reference = R9;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 25d6f86f-0414-4b1d-8cf5-77853fb05bc9
+Path = 
+Reference = C60;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 261f5394-a552-4e12-b0f5-7d8717d0bf8f
+Path = 
+Reference = R27;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2810bbd7-ee43-4a63-8266-a7668ad49599
+Path = 
+Reference = R3;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2963e4ca-2c65-4fc8-bff4-3bb0b1e21f98
+Path = 
+Reference = C40;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a013417-9e40-4dab-86a8-b23c2cc5ef3f
+Path = 
+Reference = J3;
+ValeurCmp = UFL_R;
+IdModule  = Library:CON UFL 3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a10b4f8-5a05-4ce1-b937-bb7f3b5dd509
+Path = 
+Reference = R96;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b2107c5-b8d3-406c-ab66-1043de2d6115
+Path = 
+Reference = R225;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 2bb3c2a9-7352-470d-b016-57fdb2eaa1b3
+Path = 
+Reference = C1;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2d065fea-693b-404a-a033-2d31543a861b
+Path = 
+Reference = R1;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2faea917-5903-43cf-aee5-10df7f30e31b
+Path = 
+Reference = R26;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2fcc8ee2-3e22-42fa-885b-c33298c5040b
+Path = 
+Reference = R79;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 327dc546-c175-4695-a6fd-1857e041ee77
+Path = 
+Reference = U18;
+ValeurCmp = TSNP-6-2(-8);
+IdModule  = Library:IC_BGA_0.4/W0.7L1.1H0.4_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 32808351-af45-4a38-bbcd-e9e858f7688f
+Path = 
+Reference = D1;
+ValeurCmp = DFN2020D-3_(SOT1061D);
+IdModule  = Library:DIODE_SOT1061D_3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 32df611f-c339-4f8e-b5af-77d12117dd7e
+Path = 
+Reference = R10;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3533acd7-d6a1-4039-942d-84b1c436865d
+Path = 
+Reference = C49;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 35c1d2d1-eddb-4e3f-815e-68e42fbceb96
+Path = 
+Reference = R29;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 36f8e2de-8dbb-4976-917f-fe93ebe0a950
+Path = 
+Reference = TP3;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 37610808-0441-41f3-9742-a54dba71dd63
+Path = 
+Reference = C2;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 37cadd38-56de-4567-b589-109f0ad9cf06
+Path = 
+Reference = R55;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 38570208-997c-4a90-9501-8c24ecbf4c7c
+Path = 
+Reference = C95;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 38946d6d-6d84-40cf-a3d8-f0bb9c04fd76
+Path = 
+Reference = R88;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ae65c6c-3de3-45e6-b27b-d3b156cab474
+Path = 
+Reference = C54;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3aeb355c-bf95-4c2f-91f3-e161ddd83f8b
+Path = 
+Reference = U6;
+ValeurCmp = 2450BP08A0100;
+IdModule  = Library:COIL_MOLD_1.55x1.25_5PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ba0dba9-8e22-4d58-86e3-d55d81fa556c
+Path = 
+Reference = C34;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ba301c9-311a-4ccc-b677-1f5dd62f5ea9
+Path = 
+Reference = SW2;
+ValeurCmp = PTS820;
+IdModule  = Library:SWITCH_W3.9L2.9H2.5_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 3c2c3fba-1f48-4bf2-a331-f6905c126a32
+Path = 
+Reference = C37;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d077dfa-157b-49d2-b88d-53fe4cdec960
+Path = 
+Reference = U8;
+ValeurCmp = 22-MCM_(3-5X3-0);
+IdModule  = Library:IC_QFN_W3L3.5H1.1_23PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d2ce687-09db-4919-bcdc-5245bdf93e0c
+Path = 
+Reference = R62;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3e152d40-54f4-4226-b4de-11cde163f87a
+Path = 
+Reference = FID4;
+ValeurCmp = FIDUCIAL_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 3eda62d9-32df-45de-a383-0e9518f3c7a5
+Path = 
+Reference = C16;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 400a1ed2-4b02-4ff1-8792-3265e7921dfc
+Path = 
+Reference = R108;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 40cfe810-7789-4a4f-8140-41d07a93072b
+Path = 
+Reference = C3;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 41696459-8c08-43ed-92a8-cc6f3dc8b8b5
+Path = 
+Reference = R5;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 423680a8-3f26-4d9e-9b9c-c2715057bf04
+Path = 
+Reference = C28;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 433d2f44-238c-4b43-8ec9-5a3c7ec5804c
+Path = 
+Reference = R66;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 43df1608-954a-4429-8f93-a8e158a0dee4
+Path = 
+Reference = C31;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 44e310e8-cdff-4c8c-bc08-1b20292d78c8
+Path = 
+Reference = R103;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 455a657a-d4d3-4436-ae24-88e66c1420a6
+Path = 
+Reference = R93;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 45faeb88-66dd-4b34-a5c7-9436e80b56f7
+Path = 
+Reference = C104;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 470febca-0ba5-49c2-b4f2-efaf168831d4
+Path = 
+Reference = R12;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 480351aa-0146-41a4-be5e-2fa4a46fbf79
+Path = 
+Reference = R74;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 487c5d4a-8e43-4ba8-8da9-50f32b557138
+Path = 
+Reference = C45;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 488c92ab-d576-48c9-a049-ea6daa5d5ba4
+Path = 
+Reference = U4;
+ValeurCmp = QFN32_5X5_PAD;
+IdModule  = Library:IC_QFN_0.5/W5.1L5.1H0.9_32PIN_KO;
+EndCmp
+
+BeginCmp
+TimeStamp = 48ce93d7-fbbf-4db8-9fd9-6f49d9211299
+Path = 
+Reference = R81;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 498350c4-e418-4e1c-99e0-55e7d97720f4
+Path = 
+Reference = R28;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 49a46329-0b37-4e2c-9f3c-9c947d4995f6
+Path = 
+Reference = Y1;
+ValeurCmp = XTAL_4_32X25;
+IdModule  = Library:XTAL_CHIP_W3.35L2.65H20.6_4PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 4acf86c9-7ba6-4d65-ae0a-c8e0b15bc2d1
+Path = 
+Reference = U1;
+ValeurCmp = WCSP6C;
+IdModule  = Library:IC_0.5/W1L1.5H0.54_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b5213e7-9a60-4415-b4a5-c8a8b7853d99
+Path = 
+Reference = C36;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4c4e12b7-50ec-46eb-b8d1-8da505d208d8
+Path = 
+Reference = R15;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4f4d5ade-17fb-4d9c-a05c-9892a4936ebf
+Path = 
+Reference = R230;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4fd22bba-24a1-4ea2-963b-66fd93cc8fae
+Path = 
+Reference = R72;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 504907c1-fdea-47fb-9fcd-14fa12594c40
+Path = 
+Reference = U13;
+ValeurCmp = TSSOP28;
+IdModule  = Library:IC_SO_0.65/W4.4L9.7H1.2_28PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 5057f45c-58a4-4aca-aaaa-812bb11b5468
+Path = 
+Reference = FID5;
+ValeurCmp = FIDUCIAL_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 51aa247b-f468-44cb-b828-133000d9189d
+Path = 
+Reference = U14;
+ValeurCmp = X1-DFN1010-6-(TYPE_B);
+IdModule  = Library:DIODE_W1.050L1.050H0.50_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 523cadad-95da-4113-8b06-e4a386db0ee9
+Path = 
+Reference = L1;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 526ed48b-a7d2-4a66-bad5-ed7e1932f134
+Path = 
+Reference = R112;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 52a0c6be-85b5-4461-98d8-c0da1f95f674
+Path = 
+Reference = R76;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 54588567-b814-464a-8283-9b256a10272c
+Path = 
+Reference = H6;
+ValeurCmp = HOLE_2;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 55a71425-8d80-468a-89bc-08f0de8907a1
+Path = 
+Reference = FB4;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5652ae16-66b2-49fc-8aea-cb6f21c3a86e
+Path = 
+Reference = R84;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 567db5fc-ed41-4b70-8517-46b66f4e2a9a
+Path = 
+Reference = C93;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 576453cc-eee4-4240-9135-e7153a5b103c
+Path = 
+Reference = C8;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 59ca1fba-ba62-445a-b855-d37d7d51d325
+Path = 
+Reference = FID1;
+ValeurCmp = FIDUCIAL_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 5a63bbc7-8c87-4598-98aa-a07f5e9e0285
+Path = 
+Reference = R68;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5a9acd5a-b582-43b3-8d4b-80a6f9e1c36c
+Path = 
+Reference = R67;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5b0f19ca-48ba-40b4-a232-991c21c5fb9c
+Path = 
+Reference = R52;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5cc73212-ac6e-49f6-b6ac-5de58e6134af
+Path = 
+Reference = R46;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5d68f5c1-801f-4ebd-8bb4-88456b424307
+Path = 
+Reference = R43;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e4e311c-6d7d-4b8f-acef-02a753e48ef4
+Path = 
+Reference = FB9;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5eee57bf-99ba-4543-9a6a-730865505c9e
+Path = 
+Reference = R113;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5fce9981-a54f-44fc-b873-65ac7b459214
+Path = 
+Reference = R85;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6104b859-5322-4604-b698-341f67feee5f
+Path = 
+Reference = C18;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 61c91642-e5ab-4dcc-8cc3-a40797a4f547
+Path = 
+Reference = U21;
+ValeurCmp = U8+1;
+IdModule  = Library:IC SO 0.65 3.1X3.1 8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 61dcf37f-8c9b-44f7-8cb7-fafa11ea046a
+Path = 
+Reference = C61;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 63346d72-4b16-4c76-84dd-9d9540cc57c3
+Path = 
+Reference = C32;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6535e898-1d11-4bf6-a2a8-1fd22fdcf481
+Path = 
+Reference = R42;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6680f800-7418-47b7-a186-23094bb438de
+Path = 
+Reference = C5;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 672fef64-b7b8-477d-8367-80464e6d51f0
+Path = 
+Reference = TP8;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 677c38dc-b0ea-4d38-aaa4-d66763a5b25a
+Path = 
+Reference = T1;
+ValeurCmp = 0805-6RF;
+IdModule  = Library:COIL_MOLD_2.1x1.35_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 67f442d0-62fa-4fd7-8175-0a1a848d3003
+Path = 
+Reference = R63;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a1bdcf7-50f9-4f1c-a56f-a7eeaee2729f
+Path = 
+Reference = TP1;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a2d23af-5d27-4485-9e4b-48a84777aabf
+Path = 
+Reference = R100;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6bdae1fb-0376-40ba-801e-d4bba7582a68
+Path = 
+Reference = R64;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6c6e055d-f8b1-42b6-83a1-12344905d8e5
+Path = 
+Reference = L3;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6cf58469-72d8-4f18-addf-0b24660fdf8d
+Path = 
+Reference = C33;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6d7beb19-b20b-4c2b-ae73-c9010f69aa91
+Path = 
+Reference = R109;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6d7e4dfe-d4ba-4077-80f5-2576ca9c7505
+Path = 
+Reference = U16;
+ValeurCmp = 2X2X0_9MMLGA;
+IdModule  = Library:IC_QFN_0.5W2.05L2.05H1_12PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 6eddb229-89a8-4c45-9e5c-2bcd03324e2c
+Path = 
+Reference = R75;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6fb4f8be-b742-409d-85a3-0ab14f24e16f
+Path = 
+Reference = R38;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 701f2c54-9274-4804-b18f-f0eb81b5dce5
+Path = 
+Reference = C59;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 70239321-6c2d-4494-bfad-61362d5cbdaf
+Path = 
+Reference = FB6;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7056ad0a-3238-43e8-a497-685326fd9d27
+Path = 
+Reference = C88;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 710a672a-ca40-49c3-82e9-3a1f1d7558ac
+Path = 
+Reference = R105;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7127903d-48a2-44cb-b319-8beb1b8f2b21
+Path = 
+Reference = U17;
+ValeurCmp = X2-DFN1210-8;
+IdModule  = Library:DIODE_W1.25L1.05H0.35_8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 71e74e69-ebc9-405f-9095-7e05f233b5f8
+Path = 
+Reference = R39;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 763bf2a0-a176-467d-8808-6dc722dfb198
+Path = 
+Reference = R47;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7733667e-666e-4cb4-afd8-a2def6463f8a
+Path = 
+Reference = R54;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 780a8c9e-d0c9-487a-9457-113d6131c006
+Path = 
+Reference = U3;
+ValeurCmp = 2450BP08A0100;
+IdModule  = Library:COIL_MOLD_1.55x1.25_5PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 7841645c-35a5-45dd-af02-69239413770e
+Path = 
+Reference = R51;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 799a358f-a841-4724-bf23-7ef753bcf0cc
+Path = 
+Reference = C62;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7af5add4-f681-4875-a9eb-5c578d6d24ee
+Path = 
+Reference = C43;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7b2d06bd-f9b6-4b71-94ff-8445b32c68c5
+Path = 
+Reference = C64;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7dc482de-8a4a-4b6d-b386-aeb6fbed954a
+Path = 
+Reference = C23;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7f0c7579-1569-4cc8-bd7e-4c6d7fa36b0d
+Path = 
+Reference = C209;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 7f73d4f3-00e6-48fa-b69f-3ca4c2966031
+Path = 
+Reference = TP4;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 7fa754b7-10b5-4c29-9d69-886a26bb40e7
+Path = 
+Reference = R114;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 80ac15f8-0f8d-4022-a6b9-e930fc8e5218
+Path = 
+Reference = H1;
+ValeurCmp = HOLE_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 80d71eaa-bfa6-466f-b2cc-f3b1906f023d
+Path = 
+Reference = C90;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 80d8b436-7a5c-46ef-ba72-c3fcbb3108ab
+Path = 
+Reference = U20;
+ValeurCmp = HHM2293A1;
+IdModule  = Library:IC_0.55/W1.7L0.90H0.7_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 81aec7e6-3f15-4b40-94c6-7196a161ad3b
+Path = 
+Reference = R50;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 84383870-e8f6-4d4c-9879-d1ad6563994a
+Path = 
+Reference = C67;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 848016da-563c-4b25-91b9-e19f82e51517
+Path = 
+Reference = C73;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 84cb5568-2222-43bf-a347-1b02d40dd124
+Path = 
+Reference = R53;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8538c8ba-1662-4ec4-b12c-96031a633834
+Path = 
+Reference = T2;
+ValeurCmp = 0805-6RF;
+IdModule  = Library:COIL_MOLD_2.1x1.35_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 853bed9f-f9d6-45a6-a15e-b84be3739a98
+Path = 
+Reference = R97;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 857c7f25-a2fd-4fe6-a060-0e7547db55b5
+Path = 
+Reference = C97;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8852749e-b944-47cc-bf36-04ac74027a9e
+Path = 
+Reference = R82;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 88ed8d63-4164-4a24-a4c3-1a173531c48d
+Path = 
+Reference = R69;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 89c4acbb-c755-419e-a80d-edda1e810022
+Path = 
+Reference = C85;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c5adb53-e804-4870-b0f8-22f8ee6edf8d
+Path = 
+Reference = TP11;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 8c9c32a3-78dc-4d99-8dec-f41972ae0113
+Path = 
+Reference = C24;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8d9fde7f-cb87-4344-93b0-a9cf3d71727f
+Path = 
+Reference = C11;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8df9e785-a6bf-490d-8dc5-f6cff8018b57
+Path = 
+Reference = C29;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8e1a629e-81d0-47e0-9b8a-96177b30dd41
+Path = 
+Reference = C42;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8fea42a8-340d-4cd6-bdf1-aa920517de89
+Path = 
+Reference = C46;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9057fcec-7475-40ce-a0ca-92d0c55856ad
+Path = 
+Reference = R99;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 907e40cf-ff3b-494f-98f7-7b0a3099722a
+Path = 
+Reference = R48;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 90f7079c-067b-4725-bd7b-0410bb345f58
+Path = 
+Reference = C71;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 92090497-1d2e-4ab6-8598-43b575b8a47f
+Path = 
+Reference = C81;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 92366ad4-d5f2-4f22-94b0-f5921c54739f
+Path = 
+Reference = H3;
+ValeurCmp = HOLE_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = 92f4e81d-59ff-42e4-a482-1c6c850f6052
+Path = 
+Reference = TP9;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 950c18c3-f9fa-4914-8f68-ff871f5e0db4
+Path = 
+Reference = R73;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 95855be4-fc73-4675-b345-74133b471415
+Path = 
+Reference = C30;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 95a17e73-27dd-4099-984f-6b6fbd123349
+Path = 
+Reference = C92;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9600691e-7456-40a2-9cdf-853be5dd145f
+Path = 
+Reference = C47;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 96cccf1f-5ec0-4708-b3d5-bc4b745fc9aa
+Path = 
+Reference = C75;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 97ce7cb8-4f08-45ba-8542-7966ffbe3a21
+Path = 
+Reference = C72;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 98c78f22-1912-4e85-b2c1-f3a0df533a3a
+Path = 
+Reference = R49;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 98f4344f-071a-46dc-8749-87db41867c5f
+Path = 
+Reference = D10;
+ValeurCmp = SOD323;
+IdModule  = Library:DIODE_SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = 9a70aa0a-410e-43bc-b097-a9a57953bbea
+Path = 
+Reference = J2;
+ValeurCmp = 61300111121;
+IdModule  = Library:HEADER_0/0_W80L80/1.1_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 9d3866da-f1f4-4946-99b4-2012e0135108
+Path = 
+Reference = C12;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9dcd9fdd-a14c-4271-809f-8c90abcc3142
+Path = 
+Reference = C63;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9ed8473b-7169-4f8d-af8f-985cc101777c
+Path = 
+Reference = R117;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a00fca7f-524a-4cde-ab91-48a4ec3d06e4
+Path = 
+Reference = R70;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a04952fb-ed87-4aca-b171-cfbcf5027330
+Path = 
+Reference = U24;
+ValeurCmp = 6-XFDFN_EXPOSED_PAD;
+IdModule  = Library:IC_QFN_W1.5L1.5H0.50_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = a0747f87-e717-4c7a-b095-1638a401ca41
+Path = 
+Reference = U11;
+ValeurCmp = TSNP-9-3-FPKV01;
+IdModule  = Library:IC_BGA_0.4/W1.1L1.1H0.4_9PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = a10af9a2-8a39-4a4a-b809-128ff4ce7dcc
+Path = 
+Reference = R56;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a1cee7d8-11f1-40a7-b451-f00c5d031d30
+Path = 
+Reference = J11;
+ValeurCmp = 61300111121;
+IdModule  = Library:HEADER_0/0_W80L80/1.1_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = a1e21a73-8b9b-4fcf-b51e-8fab9062724c
+Path = 
+Reference = R11;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a3c2e72f-093b-4c8c-ac9c-e427521b85e8
+Path = 
+Reference = C53;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a3d01815-b3d2-4312-8b7d-03137a563dba
+Path = 
+Reference = U19;
+ValeurCmp = DFN1010B-6;
+IdModule  = Library:IC_0.35/W1.15L1.05H0.40_8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = a560d0eb-61c5-43e2-b433-e3b93f7bbfd2
+Path = 
+Reference = TP13;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = a5b6ca83-0ba6-4d38-95eb-4197d50d0160
+Path = 
+Reference = C96;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a64cc7b8-2ef3-4225-b043-bc95cafa553c
+Path = 
+Reference = D6;
+ValeurCmp = 0402-LED;
+IdModule  = Library:LED_CHIP_0402_W24L44H28;
+EndCmp
+
+BeginCmp
+TimeStamp = a6d91b48-c43c-4c1b-95b1-9685d825c155
+Path = 
+Reference = R21;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a92ca9ab-ebc2-4c81-8d40-b3500c3c6a79
+Path = 
+Reference = D5;
+ValeurCmp = 0402-LED;
+IdModule  = Library:LED_CHIP_0402_W24L44H28;
+EndCmp
+
+BeginCmp
+TimeStamp = a951a3dd-9173-4dc4-8692-1a1b2e56ca00
+Path = 
+Reference = R7;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a982a61e-1961-42c3-b690-52b293f1f7ce
+Path = 
+Reference = C9;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = a9bf8208-830b-4e9b-8871-b002e210ce9c
+Path = 
+Reference = R65;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = aaffb2a7-23dc-4a1e-8da9-6ccd73a4eb64
+Path = 
+Reference = C48;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ab6dfcd2-6c11-4338-a465-d4b6685983a9
+Path = 
+Reference = U9;
+ValeurCmp = FIL_2450BP07A0100T;
+IdModule  = Library:COIL  W1.0L0.5H0.38_3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = ab7d260e-6648-49ef-93fd-67ec47a326ef
+Path = 
+Reference = R116;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ad39000e-ed7b-4fc2-9662-7716c576890d
+Path = 
+Reference = D4;
+ValeurCmp = UHD1110-FKA;
+IdModule  = Library:LED_CHIP_W1.15L1.15H0.61_4PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = ad698f1b-bb73-465f-bf7d-64c4167694a9
+Path = 
+Reference = R86;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ae25041a-f6e6-4287-b4b5-8dcdf2975934
+Path = 
+Reference = C26;
+ValeurCmp = CC0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = af489577-486e-408c-9d2f-7c4e00449397
+Path = 
+Reference = U5;
+ValeurCmp = SOT23-5;
+IdModule  = Library:IC_SOT-23_5OF6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = b0fb13b8-3688-42fe-871b-a68bd934e908
+Path = 
+Reference = C82;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b16f6887-c956-40d7-bf88-e3f923d07823
+Path = 
+Reference = R118;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b216e629-0f72-4d13-9b9f-cc21aae236ba
+Path = 
+Reference = R89;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b2f777f5-e1b5-481c-a254-35c64d7b7e4e
+Path = 
+Reference = R34;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b2f85ee0-bbbf-4cc8-a4db-b3e7c9fcb295
+Path = 
+Reference = R90;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b3683ab2-7f70-427f-bad6-e8a8a60b575b
+Path = 
+Reference = C56;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b3ad5ab7-4be1-4f56-81b4-433afa78085b
+Path = 
+Reference = C15;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b54ee0a4-8d96-4085-bb92-4276300d25b2
+Path = 
+Reference = C94;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b59e39b4-f436-428e-8055-560091b80fbc
+Path = 
+Reference = R2;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b62efdcb-8161-4cbd-8969-27eb2ba3f2f5
+Path = 
+Reference = J7;
+ValeurCmp = TP-1.4H-3.2P;
+IdModule  = Library:HEADER_1.4HOLE_3.2PAD;
+EndCmp
+
+BeginCmp
+TimeStamp = b6519d10-ef6e-4252-9ad7-7a050e12704b
+Path = 
+Reference = C74;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b78fab4d-9134-42dc-a821-2da446db5b07
+Path = 
+Reference = R101;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b9624ee3-aca9-436e-be31-de82ef4603ad
+Path = 
+Reference = J6;
+ValeurCmp = MUSBR-B151-30;
+IdModule  = Library:D-TYPE_MUSBR_7PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = baae0453-119a-4c57-b59b-cfd5f9850a16
+Path = 
+Reference = R91;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = bb309501-379d-4ca2-9ef7-dae9bcc03c3c
+Path = 
+Reference = C13;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = bb72d8d9-1451-49e0-b5b9-ab765df53c16
+Path = 
+Reference = R23;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = bd470703-1b6d-4427-84be-009d1f499ef2
+Path = 
+Reference = FB3;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = be304a98-8363-4ef1-8987-df647328c518
+Path = 
+Reference = R104;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = bea22d5a-b614-432e-9004-58d5dce993da
+Path = 
+Reference = U15;
+ValeurCmp = TSNP-6-2(-8);
+IdModule  = Library:IC_BGA_0.4/W0.7L1.1H0.4_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = c0036648-cbed-4440-88bf-dd791091fcaa
+Path = 
+Reference = U22;
+ValeurCmp = WCSP4D;
+IdModule  = Library:IC_0.4/W0.79L0.79H0.59_4PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = c03d9289-349e-4afd-b224-d9b962f2a090
+Path = 
+Reference = C17;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c03e749f-9445-4a6f-98fe-819b1ece5ddf
+Path = 
+Reference = C50;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c1bdb632-2fa7-4f12-afbd-8e16a385cfba
+Path = 
+Reference = FB5;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c48a2cc1-29e2-4983-98a8-430eb7bfcac2
+Path = 
+Reference = C7;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c4c589ad-fc54-48c0-a763-0ccecd94bf8f
+Path = 
+Reference = ANT1;
+ValeurCmp = SR4W035;
+IdModule  = Library:IC_ANT_W6.1L4.1H0.5_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = c6e60e07-366a-4043-9fe6-b545bc9d3df2
+Path = 
+Reference = R212;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c6fafb42-535b-4af3-95bb-18277baeac48
+Path = 
+Reference = FB8;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c7b14a16-6a7e-4902-86c8-6fdf9836ea7d
+Path = 
+Reference = C78;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c8583ca5-5a1d-4dda-93ca-333e57dd5e1c
+Path = 
+Reference = C52;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c8d5891e-5afd-47c5-ab1d-d2bcf5902def
+Path = 
+Reference = TP10;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = c9ae9c62-a6fb-43bf-85e5-2793a32583ea
+Path = 
+Reference = FID3;
+ValeurCmp = FIDUCIAL_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = ccff9540-2232-46bb-9352-71b65c484a82
+Path = 
+Reference = R83;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ce2461bd-db92-4799-9e9d-f63b9d68c30a
+Path = 
+Reference = C39;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = cebdb5d8-e39f-4c8e-9676-0cc91f2bdf68
+Path = 
+Reference = R80;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = cf667bdf-ea57-4fa4-9fa5-3eefe55a86ac
+Path = 
+Reference = U12;
+ValeurCmp = X2-DFN1210-8;
+IdModule  = Library:DIODE_W1.25L1.05H0.35_8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = cf6cd1ed-4d63-42d8-8cef-beffba6b395d
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = cf9d0cb1-73f3-4453-b39a-931f88f84ddd
+Path = 
+Reference = J1;
+ValeurCmp = 61300111121;
+IdModule  = Library:HEADER_0/0_W80L80/1.1_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = cfb7fe50-41b4-437b-92b0-a7479607810d
+Path = 
+Reference = R59;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d04a08c7-2608-44b0-af7c-0e64a45b6cc5
+Path = 
+Reference = TP15;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = d1a907af-7e74-4355-957d-e3906589022f
+Path = 
+Reference = C25;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d1c31fba-d4c2-4013-9977-ec098d811f13
+Path = 
+Reference = TP12;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = d204b480-6624-4156-986f-4a297b16f66c
+Path = 
+Reference = J8;
+ValeurCmp = TP-1.4H-3.2P;
+IdModule  = Library:HEADER_1.4HOLE_3.2PAD;
+EndCmp
+
+BeginCmp
+TimeStamp = d4fbacf9-d5fb-410b-b471-f857ce98ed6b
+Path = 
+Reference = R44;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d56efd4c-e0f1-4ec7-bcd6-a40450a85f3d
+Path = 
+Reference = C66;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = d816c078-9b25-4155-9161-2260e8443755
+Path = 
+Reference = R40;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d8466089-5f2f-4227-94b1-5eb7fbc2eb4c
+Path = 
+Reference = R87;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d9fd028d-b098-4e0b-b474-636e4c144204
+Path = 
+Reference = J10;
+ValeurCmp = TC2030;
+IdModule  = Library:PLUG 50/50_W9.9061L19.05/30.378_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = da28e567-834b-4e46-b902-23850a98a902
+Path = 
+Reference = R32;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = daa801bb-41bd-45e9-ba44-3c947563ff5a
+Path = 
+Reference = J5;
+ValeurCmp = TP-1.4H-3.2P;
+IdModule  = Library:HEADER_1.4HOLE_3.2PAD;
+EndCmp
+
+BeginCmp
+TimeStamp = dbc790dd-c615-4b35-9dc1-8f0b6a9db27b
+Path = 
+Reference = C68;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = dc88f10f-9ed9-40d9-b01b-2093ecfaed52
+Path = 
+Reference = C21;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = dd7634e4-2002-47b7-b07d-9fa4deafbbb9
+Path = 
+Reference = C77;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = dd9b4168-8fad-46e3-a176-baa9475d4ecd
+Path = 
+Reference = C20;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = de6d1eaa-d337-4f3a-99c6-44aa4bf6af5b
+Path = 
+Reference = R45;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = df1fd1a0-c75d-4e75-a794-8322ef58ba41
+Path = 
+Reference = SW1;
+ValeurCmp = PTS820;
+IdModule  = Library:SWITCH_W3.9L2.9H2.5_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = df64bbc1-127e-45ee-a5b9-b8a46f9854d4
+Path = 
+Reference = C51;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e09ea4cb-ba39-4e02-a15f-72c6b54d91b8
+Path = 
+Reference = TP6;
+ValeurCmp = TP27;
+IdModule  = Library:HEADER_0/0_W80L80/0.7_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = e0f4cf90-abf6-4df3-be17-631f33a407e0
+Path = 
+Reference = J9;
+ValeurCmp = 61300111121;
+IdModule  = Library:HEADER_0/0_W80L80/1.1_M_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = e1ef0b0a-2ae2-430a-982c-046546c4d754
+Path = 
+Reference = R31;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e5419076-9ced-44c5-b53c-04fe09fed49c
+Path = 
+Reference = R6;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e5882738-1bc2-417d-8fee-5cd96d26b581
+Path = 
+Reference = R57;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e63e846d-0f04-4580-abca-693a9afe220e
+Path = 
+Reference = R13;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e68b6550-69d7-4dae-8ab9-f4a2bb6bb1b3
+Path = 
+Reference = C35;
+ValeurCmp = CC0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e6b521db-343e-4178-82c4-bf3116e11d53
+Path = 
+Reference = H4;
+ValeurCmp = HOLE_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = e6f60260-f6ab-41bb-97b8-ca8b3ab8f53f
+Path = 
+Reference = H7;
+ValeurCmp = HOLE_2;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = e7e21060-2606-491f-8717-a4b21c2f23f6
+Path = 
+Reference = Q3;
+ValeurCmp = SSM3K15ACTC;
+IdModule  = Library:TRANS_C3T3C_0.8X0.6 3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = e86df0b3-4024-4994-8a0a-f44858d05dea
+Path = 
+Reference = R60;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e8b1aa35-2588-4007-8871-d543ff5c40f2
+Path = 
+Reference = R224;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = e8dee926-6c8d-4942-a4a0-b89577a63e49
+Path = 
+Reference = C14;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = eb09d63b-1211-431b-815b-da3d7880daff
+Path = 
+Reference = R33;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ecf85b99-9740-474f-81cd-63a053f4edab
+Path = 
+Reference = C76;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ed390152-bb7a-49b8-bf30-53422e6418c3
+Path = 
+Reference = U10;
+ValeurCmp = 16-DFN_(5X3);
+IdModule  = Library:IC_MLF_0.5/W3L5H1.0_16PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = ed3c56cf-502f-4285-ae2d-330552b4ed20
+Path = 
+Reference = FB1;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = eef36500-560a-4b9d-a466-afed8ccad22f
+Path = 
+Reference = R35;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = effbe6cf-d558-4c7c-8b66-734521c6a7ff
+Path = 
+Reference = R4;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f08df01b-a021-43d3-b3ff-7005fdbb8161
+Path = 
+Reference = R61;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f179f330-d642-4489-9bb4-ba464ce41a10
+Path = 
+Reference = C10;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f1ff71f5-9505-43bb-bee5-a16f2318c227
+Path = 
+Reference = C70;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f3506839-b72c-418e-ade2-f63ce9a22b1c
+Path = 
+Reference = C84;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f3622a23-7aaf-400d-b7e4-16d4c4d396da
+Path = 
+Reference = U2;
+ValeurCmp = 20-DHVQFN-EP;
+IdModule  = Library:IC_QFN_W4.6L2.6H1_21PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = f3c18442-eb6e-48fe-a687-59327f212625
+Path = 
+Reference = C41;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f43a48f7-f595-4f3d-9cdc-bf64e3a86f7d
+Path = 
+Reference = R95;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f4ef3d96-e91c-4446-8113-7fdffeb8bbbd
+Path = 
+Reference = R102;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f6e1dc03-66d3-4000-9a1d-a87efe5f2b95
+Path = 
+Reference = R37;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f80ab203-a9e0-4423-b63a-2ee33f764743
+Path = 
+Reference = R98;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f9195f90-bc89-45a7-8e14-b4457a81db42
+Path = 
+Reference = R18;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f9355bef-96ee-4ec7-b8e8-9901cfd9a610
+Path = 
+Reference = C44;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fbc7b153-0592-4121-bdbb-faa9e528194a
+Path = 
+Reference = L2;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = fc2aab68-107d-4fd1-912f-da97092543a6
+Path = 
+Reference = C4;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fccf366c-5c14-4807-b9e9-e4be2d7bc07c
+Path = 
+Reference = R71;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fdd2f2fe-91ca-40fb-8424-4eeaab9eec7d
+Path = 
+Reference = R14;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fdf6d54f-b1bd-45a0-9a63-e23d0edafee3
+Path = 
+Reference = C27;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fdfd6f82-b2fc-4fa3-9871-5072542b424e
+Path = 
+Reference = R16;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fe68a2a1-c3e6-4868-9ac8-6bed1ad681f8
+Path = 
+Reference = C87;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ff1a22c2-d837-4f56-88d8-9361dc7381cf
+Path = 
+Reference = C83;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ff23fede-6f24-4c84-9acf-d9f30a43bea6
+Path = 
+Reference = H2;
+ValeurCmp = HOLE_1;
+IdModule  = Library:;
+EndCmp
+
+BeginCmp
+TimeStamp = ff3fce34-6123-4739-89e0-dfd10acbd82d
+Path = 
+Reference = C89;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ff99f3d2-9b05-48a3-bb8a-57ffc25bb62a
+Path = 
+Reference = R92;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 03d05c5c-4bbf-4280-a14e-a6891bc15c56
+Path = 
+Reference = C151;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0431554c-7931-4e66-bd9c-921beb7cd791
+Path = 
+Reference = R146;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 04c41e69-1a75-4a73-8cd5-57c6635588b2
+Path = 
+Reference = R211;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0537bf91-cde2-4dbb-925f-cb03d1d9a68c
+Path = 
+Reference = C128;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 05814570-2fad-4085-90cd-2e8fe9fa18e0
+Path = 
+Reference = U31;
+ValeurCmp = SOT23-6L;
+IdModule  = Library:IC_SOT-23_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 0ba65af2-cf59-4300-ae99-1d878daa02ea
+Path = 
+Reference = R151;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0ca539d0-4b5f-496b-83c4-7bbebba8ea31
+Path = 
+Reference = R154;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0d2a2f23-61c0-429b-bc7f-273f752b5481
+Path = 
+Reference = R182;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 0dd7ce28-de5f-4c0e-afde-141b95d09195
+Path = 
+Reference = C171;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 116ee5fc-8a28-47ca-a617-993940137703
+Path = 
+Reference = R173;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 135265a9-ea88-4b12-a672-8a9c192e7996
+Path = 
+Reference = R198;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 15adf547-0afb-4f1d-a9d5-6857afd34ad4
+Path = 
+Reference = R188;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 15f7da1c-fc37-47d6-8462-0d75b1aa354a
+Path = 
+Reference = R133;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 16eafd89-1a32-4c2a-8b44-87a0543badb8
+Path = 
+Reference = R135;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 18652497-2641-41b5-9fdd-d589079f4cb0
+Path = 
+Reference = C133;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f41ef12-3126-43d9-b092-6a716942284c
+Path = 
+Reference = R190;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 202749da-da0c-4e5f-bb66-7cd4f41cf710
+Path = 
+Reference = C175;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 215f21da-735f-4dd8-a6ff-9503a9ca52bc
+Path = 
+Reference = J16;
+ValeurCmp = 628;
+IdModule  = Library:CON 628 3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 2284eca1-6371-4d8d-90e2-723cdff93566
+Path = 
+Reference = R177;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 249cf6e1-eb92-4c2a-b1f6-ceca6697db3a
+Path = 
+Reference = D7;
+ValeurCmp = DO-214AC;
+IdModule  = Library:DIODE_DO-214AC;
+EndCmp
+
+BeginCmp
+TimeStamp = 24c4c42f-8d75-4014-9a2f-beb40caa09bc
+Path = 
+Reference = R210;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 24d70dc4-beff-46ec-80e3-38bb8a79073c
+Path = 
+Reference = R189;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 255ebb93-049b-4e46-a898-69e2deb2a678
+Path = 
+Reference = C116;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 25b03e18-eeb6-4717-8327-050ee4217637
+Path = 
+Reference = C109;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 26f40a6c-1c20-4228-8c72-c67e09ce2c85
+Path = 
+Reference = R136;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 27f33521-5b2d-455f-9510-62a849b72d8a
+Path = 
+Reference = C159;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 28323e99-3dde-406f-a714-0c28891fc5cf
+Path = 
+Reference = C102;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 290b4005-eb4e-4269-beec-e207b87ffb1a
+Path = 
+Reference = R201;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 297e9509-cfff-479c-9e9c-0c4fc4da570b
+Path = 
+Reference = R187;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2acb9ba6-c3b3-4387-be9d-2c4c1b957c2e
+Path = 
+Reference = R157;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b0a9638-3462-4040-9ae5-7349fc7c7746
+Path = 
+Reference = R156;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2c9c73ed-869b-4263-a61d-bd700f3bba74
+Path = 
+Reference = C186;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2e0dade7-eb86-4d49-a796-968419daa24c
+Path = 
+Reference = R152;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2e53a3bc-319b-408f-9055-2a4d836d0265
+Path = 
+Reference = C131;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2e7ae033-bf4b-4db8-9260-43ea30d7a1e2
+Path = 
+Reference = R178;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2eaec9ea-cddf-4599-8765-7a051e102642
+Path = 
+Reference = R184;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f8eda19-c565-41f3-b9df-24613959cc47
+Path = 
+Reference = C127;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 2fd3baee-d147-4830-8d05-3158bfbdac0a
+Path = 
+Reference = R161;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 30748d06-42d9-492a-a32d-bdf549bd342f
+Path = 
+Reference = R165;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3084a05f-538e-4845-ad93-c1d1b03337f3
+Path = 
+Reference = C178;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 30d88d18-022e-45bf-8b2f-e4087a813736
+Path = 
+Reference = C173;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 339ed6be-8003-4f40-981b-9a3e323cbeb5
+Path = 
+Reference = R167;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 343f1d37-4ca0-41dd-ad8b-5f5d4246b6d0
+Path = 
+Reference = C177;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 34aec241-f898-4c3d-94c9-aa6817eba26b
+Path = 
+Reference = C101;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 36291217-9215-4826-82cb-d1f2f4afc78e
+Path = 
+Reference = C158;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 38d34652-e4e3-4496-8ef1-633a05975e82
+Path = 
+Reference = C125;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 38e44620-ce4c-4458-87e1-a6d6cf9cb3da
+Path = 
+Reference = C110;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a94c64a-1c31-42b2-a2d2-9f358eba4723
+Path = 
+Reference = J17;
+ValeurCmp = BM28B0-6-30DS-2-0-35V;
+IdModule  = Library:CON_BM28B0.6_HRS_30PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 3b658308-84d5-4b20-9a2a-b203e0ea9ac2
+Path = 
+Reference = R164;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3cb09df3-e6b3-4e80-abf5-83882cb6b489
+Path = 
+Reference = C122;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d05aac5-1e88-47e0-8102-0d181e1086fc
+Path = 
+Reference = J12;
+ValeurCmp = 628;
+IdModule  = Library:CON 628 3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d4dac64-3698-4589-93da-823a96d6e166
+Path = 
+Reference = R149;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d63aeaa-9519-4b0c-96e0-5769fab223c1
+Path = 
+Reference = R153;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3db58715-a140-4c8d-915c-3f4d0a9db728
+Path = 
+Reference = C144;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3dc6eec4-8b43-4267-b8c8-0bcb61099dff
+Path = 
+Reference = C103;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3e60200d-9fcf-4cfc-a236-51594cd5ccbd
+Path = 
+Reference = C185;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f0674c4-6eb8-4d0b-a27b-32e3cb3d9096
+Path = 
+Reference = R160;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4042bd73-96d0-468b-97e4-bd76098ebc92
+Path = 
+Reference = R209;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 414db3d9-b3a2-4acd-8b0a-50ce438f9001
+Path = 
+Reference = R176;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 41ca7d14-1d32-4058-90be-da0a0111e733
+Path = 
+Reference = R122;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4397e9f3-2e7a-48c2-a11f-ebc01fe8bc9e
+Path = 
+Reference = R128;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 46179b4a-dc8b-4962-81ff-ba00d0c02136
+Path = 
+Reference = R181;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 47e8f969-3f5a-42e9-8b61-0115579f36cf
+Path = 
+Reference = C137;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 48ad6aad-dfe6-4d18-80f9-ced1cb04949d
+Path = 
+Reference = R132;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 49698e45-e25c-4a00-8fad-aa72851d47ac
+Path = 
+Reference = R144;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4a7ab6ba-5d2c-4c2e-b8af-568ee6a24cd1
+Path = 
+Reference = R139;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b6c5b6e-74fe-46d1-8094-9b25e05d8aa0
+Path = 
+Reference = C160;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b84bc1b-8ddd-49af-8f61-21cf14a9f2db
+Path = 
+Reference = Q1;
+ValeurCmp = SC70-6;
+IdModule  = Library:IC_DCK_W2.15L1.40H1.10_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 4c36188b-0e59-4165-85a9-541c09e1fae3
+Path = 
+Reference = U32;
+ValeurCmp = QFP50P1600X1600X160-100N;
+IdModule  = Library:IC_QUAD_0.5/W14L14H1.6_100PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 4d71d718-bc6a-495b-8493-11ccc650032f
+Path = 
+Reference = R163;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4de72445-3067-4bd6-93e7-4a81a003118b
+Path = 
+Reference = C123;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 4f351bb6-7838-402f-b0eb-f8cece7b8b97
+Path = 
+Reference = R200;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 50fe3aa6-e8cf-4328-934d-a6133171db7c
+Path = 
+Reference = C161;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 518270d2-755c-4622-ac0d-41aed0831ea9
+Path = 
+Reference = C142;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 52672a35-a2a6-400f-891a-76964f6929b3
+Path = 
+Reference = L8;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 539cab12-957a-4b72-b2ed-fa401e3b5fc1
+Path = 
+Reference = C100;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5460e880-c8f4-4a4c-bc60-687c6bf6cd9f
+Path = 
+Reference = C165;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 571a5bd8-3990-4f49-b29d-7572713d335b
+Path = 
+Reference = C164;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5a1834f5-819e-4f57-aed7-e52166a0dffb
+Path = 
+Reference = R199;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5b76944e-7e20-4525-b7fd-bffbccaa9dd1
+Path = 
+Reference = J14;
+ValeurCmp = 10118192-0002LF;
+IdModule  = Library:USB_ZX62-AB-5PA_5PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 5bfa4443-a410-4789-acc6-346ac850aed8
+Path = 
+Reference = C167;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5df2e644-3fbe-4761-afb7-b043e4e3435a
+Path = 
+Reference = U25;
+ValeurCmp = XDFN4;
+IdModule  = Library:IC _DFN_W1L 1H0.43_ 5PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e03043b-ef31-4b02-96e9-20368822a9d9
+Path = 
+Reference = R140;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e68a579-b048-4a4c-affb-4cd0cc550ef8
+Path = 
+Reference = U29;
+ValeurCmp = SC70-6;
+IdModule  = Library:IC_DCK_W2.15L1.40H1.10_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 5e991e35-26dd-403e-a3c6-d8cd0c2cbd9b
+Path = 
+Reference = C143;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5f36dc3e-4c64-43a6-8cef-3f42a93f5f40
+Path = 
+Reference = C115;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5fcbab22-2e08-436b-a21b-a84a630cb428
+Path = 
+Reference = R155;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 61063dc3-ec93-4ee0-b401-8be50006234c
+Path = 
+Reference = C154;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 63509f81-f8d0-45b9-b949-39a6e0545bf1
+Path = 
+Reference = X1;
+ValeurCmp = FC-135_32_7680KA-AG5;
+IdModule  = Library:XTAL_CHIP_W3.3L1.6H0.9_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 64a47868-3d0d-427f-963f-a6663f884e80
+Path = 
+Reference = R145;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 65475263-ce41-4164-9a90-42810dffc42d
+Path = 
+Reference = C156;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6552e834-2f17-4e77-86bf-1e6f5cc74e29
+Path = 
+Reference = R147;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 658a12cb-d8b8-4fc0-b279-b889638a98ed
+Path = 
+Reference = C121;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6605edb3-41fd-4670-991a-5580a1c00e3d
+Path = 
+Reference = R134;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 660a9236-5668-4df5-9baf-52ac083b42f9
+Path = 
+Reference = C19;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6664b6e3-c346-4419-ab35-11734551acf8
+Path = 
+Reference = C105;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6739efcc-f850-42eb-b527-9f55d1ea2237
+Path = 
+Reference = C155;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 684ac1bc-16bf-4289-ac6f-e01bc60c768b
+Path = 
+Reference = C136;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 693f75a0-c4ef-4111-af99-b284a1935dd0
+Path = 
+Reference = C152;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a0b4068-a96f-4db3-a532-9bb1b658d9dc
+Path = 
+Reference = C188;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a19b908-7513-4760-9d57-bdad78babfe9
+Path = 
+Reference = R207;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 6d38c5d0-39ec-4b09-a755-14ac0e7f88e6
+Path = 
+Reference = J13;
+ValeurCmp = 595;
+IdModule  = Library:CON 595 3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 6dc6301b-ea81-4453-be50-eb93985d23f6
+Path = 
+Reference = C130;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 714bb915-0085-46f8-ac05-2c9664ed718c
+Path = 
+Reference = C129;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 71e01d4e-b957-4160-9a00-f12f8e8ebb8a
+Path = 
+Reference = C166;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 7251a76f-c388-462d-b87f-a4fb21168d3d
+Path = 
+Reference = U26;
+ValeurCmp = XDFN4;
+IdModule  = Library:IC _DFN_W1L 1H0.43_ 5PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 73cd14cf-3cea-47b6-9a6e-470659a65f6e
+Path = 
+Reference = R124;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 742ef573-790f-44e5-9673-bad4798799ee
+Path = 
+Reference = C179;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 74ff3053-06b7-4639-8efd-e3beacc952ea
+Path = 
+Reference = C183;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 750406a1-1096-4178-a2e6-bd99d126bba2
+Path = 
+Reference = R130;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 762b76ce-54c3-40cf-bda1-c4366d5c2916
+Path = 
+Reference = R129;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7813b40d-8e70-4b7f-a317-5df3ace1b954
+Path = 
+Reference = R208;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 79ba976b-5986-4607-b645-c8144e2ab4cc
+Path = 
+Reference = Q2;
+ValeurCmp = SOT223;
+IdModule  = Library:IC_SOT-223_4PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 7afb3fff-a0bd-44a9-98c2-32b9c819f92d
+Path = 
+Reference = C146;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7b25a387-ca03-4721-8fc6-993e0e62b9ca
+Path = 
+Reference = C138;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7bab010c-d24a-426c-960e-1689a4dfc801
+Path = 
+Reference = R186;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7bed4e0e-3225-4feb-90e0-e2fdb140dff3
+Path = 
+Reference = C182;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 7ed8e86b-de07-4287-9f52-a761f2974319
+Path = 
+Reference = L9;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8145379e-1876-4c9a-a8b3-6c71c8275ac8
+Path = 
+Reference = C147;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 81e82d07-7d06-445d-989f-cb568d390a5e
+Path = 
+Reference = C141;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 82a8f321-c92d-4bd3-ae87-3f70651d08fd
+Path = 
+Reference = R183;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 834acc2f-f31e-41e3-af91-ffd79c2f8700
+Path = 
+Reference = R137;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 83c1fddb-74bc-47b9-ade6-d343c9bc07e8
+Path = 
+Reference = R227;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 845bad78-e7b6-4093-9857-3a75978445aa
+Path = 
+Reference = C153;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 868fbdaa-d23e-4fd3-bc9c-05f83f9fdc87
+Path = 
+Reference = R142;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 87902c4f-f4fa-407b-8bfc-a28a776c83f7
+Path = 
+Reference = C162;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 87b04830-9a6f-4bc1-a161-bf127159bcbf
+Path = 
+Reference = R171;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 886a9770-7428-4011-a30a-e27b69f52a08
+Path = 
+Reference = R131;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 89054aff-6166-4a57-b5a5-50fb27f5b55f
+Path = 
+Reference = R141;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 898a892d-98eb-4e14-ba28-c1af5d789568
+Path = 
+Reference = R179;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8ad0cb1c-b573-4990-b506-ce1dcf5de8fa
+Path = 
+Reference = C157;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8b2ca064-1f98-4ab9-95d2-dbb95e64b825
+Path = 
+Reference = R121;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 8e4dcf5b-81c9-4f57-a20d-b45eb9ad2efd
+Path = 
+Reference = R197;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 917cf483-b802-4a4b-b90e-82340e6eb2b6
+Path = 
+Reference = C108;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 919f5ba8-b0ee-487a-9f86-b445145060d5
+Path = 
+Reference = U7;
+ValeurCmp = 8-HCLGA_(2-5X2-0);
+IdModule  = Library:IC_0.65/W2.6L2.1H1.1_8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 9356c023-43e6-4d52-b610-df42b48c12df
+Path = 
+Reference = C114;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 93f6fefe-ca15-46a4-871f-b58aaf5f1b1c
+Path = 
+Reference = C184;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 943f3a43-dbd6-4d73-963c-300f6632db33
+Path = 
+Reference = R180;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 94b6be47-5eb0-4587-8ab7-971177a55ef3
+Path = 
+Reference = R205;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 94ce8012-3817-4718-a6a4-2d438b6a6c74
+Path = 
+Reference = Y2;
+ValeurCmp = OSC_FOX924B;
+IdModule  = Library:XTAL_CHIP_W5.2L7.2H2_4PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 96287ac8-7229-48cf-9554-9c9a9483c9d3
+Path = 
+Reference = R150;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 983cd138-7b08-4b94-9801-5e9cd5cd9ba5
+Path = 
+Reference = R174;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9927079f-1bd2-4e91-8a9c-f1ab56e3b4cd
+Path = 
+Reference = C135;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9a7b84d0-ae6b-4aca-811b-cd752198b667
+Path = 
+Reference = R166;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = 9d54fb69-1bbf-4317-8f1d-c02bb746cf94
+Path = 
+Reference = U27;
+ValeurCmp = SC70-6;
+IdModule  = Library:IC_DCK_W2.15L1.40H1.10_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = 9f991858-b763-4887-9272-3837e6e8bac8
+Path = 
+Reference = C187;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a02ebbc2-1ad4-4987-9153-d124bcfca480
+Path = 
+Reference = C176;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a04b9ead-f74e-47c3-b0ba-c2fec5f63e97
+Path = 
+Reference = C106;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a0b58b5c-8670-46d6-8e4f-d9a4c81daaed
+Path = 
+Reference = C172;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a1d04428-cfde-4833-9935-7fe97ec7b577
+Path = 
+Reference = C111;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a1f4f2e7-b12c-471a-8f2e-3d85845c1442
+Path = 
+Reference = R169;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a597bb21-9b9a-4f19-a3ff-ef15d2d2b88e
+Path = 
+Reference = L10;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a600c57a-ed5d-4208-beed-77b58e92ab3e
+Path = 
+Reference = R195;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a609e0a5-5eb3-4cc1-83f9-3f6622a64dcf
+Path = 
+Reference = J15;
+ValeurCmp = 595;
+IdModule  = Library:CON 595 3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = a7ecbd6d-3f02-4850-9980-15e0297b3771
+Path = 
+Reference = R172;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a809e409-2f5d-44d0-8440-87e4b170907c
+Path = 
+Reference = FB12;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a857e7a5-685d-4318-bc73-185209ac73e5
+Path = 
+Reference = R202;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a892e6ce-2a73-4544-a6d1-792833744d20
+Path = 
+Reference = R162;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = a8db3fe9-138c-4710-86c3-0ac561fe14aa
+Path = 
+Reference = R158;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = aade772b-ae38-4df4-92ea-c97f4dc56966
+Path = 
+Reference = R192;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = aaf3d0c3-9830-4d84-b936-2e6442c0a3e6
+Path = 
+Reference = R123;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b119a78a-100d-4f7c-b45c-64963619f329
+Path = 
+Reference = C181;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b2dc4abb-c1f8-4cba-90df-6f478d63a9f6
+Path = 
+Reference = FB14;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b4887b2e-55e5-4c7b-8697-8e62dcac40d1
+Path = 
+Reference = R168;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b4c0949f-89c4-4fd7-b075-6358bfe965f9
+Path = 
+Reference = T3;
+ValeurCmp = ACM2012D-900-2P-T00;
+IdModule  = Library:ACM2012D W2.2L1.4H1.3_4PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = b51da5e7-f97b-4bea-bf64-ee6eda4f6455
+Path = 
+Reference = R126;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b5249feb-9a18-4f27-8f1c-2246e284aba1
+Path = 
+Reference = R226;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b692c254-3fd2-4c7b-802b-b65157d8946c
+Path = 
+Reference = R143;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = b6f584c5-a522-4148-b48f-f69638a20993
+Path = 
+Reference = C120;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ba6895d8-caf4-45bc-a119-8ec42797d9af
+Path = 
+Reference = U30;
+ValeurCmp = SOT23-6L;
+IdModule  = Library:IC_SOT-23_6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = bc920e9e-b5e0-4d57-8d73-27bf79a85412
+Path = 
+Reference = R203;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = bcd30a14-6ad2-49cb-a3f6-a68e281c4dbd
+Path = 
+Reference = C148;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = bd188063-f4b4-4e0e-803e-2a4b82a917e4
+Path = 
+Reference = R138;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = bf2286b1-f9a1-437e-8c1b-c5ccab67be0a
+Path = 
+Reference = R170;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c337723e-69f0-4668-867a-9a0faf31b746
+Path = 
+Reference = R194;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c42931b8-73f7-4269-9ed3-5b28cf5950d5
+Path = 
+Reference = D8;
+ValeurCmp = SOT883;
+IdModule  = Library:DIODE_SOT883_3PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = c614a23c-4d53-42ee-8fdb-5f6a5ecc0702
+Path = 
+Reference = FB13;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = c7bbdaf2-379e-4631-9d10-028283d33bdf
+Path = 
+Reference = FB10;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c7da37f7-53ab-45d0-b64d-b68f3f9bb840
+Path = 
+Reference = R25;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = c7dfb52c-8b07-46a2-853b-0b826d971447
+Path = 
+Reference = R148;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ca3f7848-ff09-43ce-82e2-82398f38e00a
+Path = 
+Reference = C99;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = cb4c3083-a92f-4d99-a475-e208ee751430
+Path = 
+Reference = C124;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = cc017298-4608-4c5c-96a4-235cd2d9dd99
+Path = 
+Reference = U28;
+ValeurCmp = SC70;
+IdModule  = Library:IC_SC70-6_5OF6PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = cdd300ab-05f9-4bb3-8ed4-3c24968c3727
+Path = 
+Reference = R228;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ce5f48bc-7f1a-4d4d-b64b-1abb8c7d63bb
+Path = 
+Reference = U34;
+ValeurCmp = TSSOP8;
+IdModule  = Library:IC_SO_0.65/W4.4L3.0H1.2_8PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = ce7752fc-1a2d-4427-9c68-dd2accea6a68
+Path = 
+Reference = FB11;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d01b4f37-18cc-4647-b411-54d00da1a5bf
+Path = 
+Reference = R127;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d06fec28-89ec-4fad-804f-50a698214a2b
+Path = 
+Reference = R120;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d3653cbc-267c-4fe6-a0d7-08c46888d061
+Path = 
+Reference = R119;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d4581735-fb17-44ce-b035-3c962fb7468b
+Path = 
+Reference = U35;
+ValeurCmp = XDFN4;
+IdModule  = Library:IC _DFN_W1L 1H0.43_ 5PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = d509c4fe-1f30-4375-828a-023ec0579ba9
+Path = 
+Reference = C119;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d77e86d4-7993-46a5-b60a-f8eca1e2bc92
+Path = 
+Reference = C168;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d8ca17bb-dc18-44c3-8b50-c18d7cc01c56
+Path = 
+Reference = R206;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = d9ab6b06-09ee-4ead-a6f8-c22e59765434
+Path = 
+Reference = L7;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603_W40L70H22_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = da100fb4-0693-4b0d-af9a-8c9a5a205e38
+Path = 
+Reference = C112;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = da31f752-0616-425e-aec7-57ff6732e76e
+Path = 
+Reference = C126;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = da7721da-5d33-4cdd-a2b2-e9bf7384c2be
+Path = 
+Reference = U33;
+ValeurCmp = DSJ_R-PVSON-N14;
+IdModule  = Library:IC_QFN_W4.15L3.15H1_15PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = da946db0-53a5-4107-b342-c01a666707b0
+Path = 
+Reference = C145;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = db56cad4-69a6-4826-abbe-1472ac9cb87c
+Path = 
+Reference = C170;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = dbcbfd71-4b83-46d6-b941-ecd9a1bf7ce0
+Path = 
+Reference = C118;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = dc313a9d-4058-4307-9882-7abbbb7e4924
+Path = 
+Reference = R204;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = dd7294fc-b7d9-4d09-b7e7-78b9fcd381ee
+Path = 
+Reference = C107;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e4412e5d-bfbb-4a97-951b-6d73c2d6bfe8
+Path = 
+Reference = R159;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e51a4027-8008-417a-b2f5-1733a3c6fe7e
+Path = 
+Reference = R185;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e59324d9-55e1-4259-8d70-8797ac063320
+Path = 
+Reference = L5;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = e7a76f2d-3e8b-43a3-be43-2c41f8b6a6d2
+Path = 
+Reference = C150;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = e8c8f1a3-9d39-4b2a-90df-543a7df64921
+Path = 
+Reference = C149;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = ea2f5239-a960-4ce1-b6c2-29c0bbe6c224
+Path = 
+Reference = C174;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = efc80fba-b7d5-41a0-9b54-6b03784adadc
+Path = 
+Reference = R196;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = efd8420f-2c2a-439f-bed3-31094edf2302
+Path = 
+Reference = R19;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f01465e3-330e-4784-8d9e-6e2f8eb6f89d
+Path = 
+Reference = C169;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f09287ff-be0f-43d9-986c-9c0a778ef483
+Path = 
+Reference = R191;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f11e6b11-a818-4a24-a0da-0622f811fd75
+Path = 
+Reference = L6;
+ValeurCmp = 0603;
+IdModule  = Library:CAP_CHIP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = f286bd18-ea7d-4b70-852c-b172b0bbd367
+Path = 
+Reference = R125;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f42cf75f-cb01-4a14-8fae-0d7ca21ff7f8
+Path = 
+Reference = C132;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f4b026ed-1714-4a96-9011-349cbeba8dfb
+Path = 
+Reference = R193;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f4b4b40c-5d7f-4eec-b954-4a51fa08ba29
+Path = 
+Reference = C113;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f4dae03c-6399-47ad-9b6d-fe1efbaa4773
+Path = 
+Reference = R175;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f5d33e26-4475-467f-ba11-1866964da390
+Path = 
+Reference = R20;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f6305dbd-02da-47c3-8e4f-22e45f7c636f
+Path = 
+Reference = D9;
+ValeurCmp = 1N4148WL2-TP;
+IdModule  = Library:DIODE_DFN1006 2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = f68af826-10b5-4499-94cd-7a5a1e897f2f
+Path = 
+Reference = L4;
+ValeurCmp = SRN4018TA-1R5M;
+IdModule  = Library:COIL_MOLD_W4.2L4.2H1.88_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = f80ee66c-43eb-418c-bc6c-bce59c269d70
+Path = 
+Reference = C117;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f83e127c-8ddd-4e85-9df4-803fb7ecf82f
+Path = 
+Reference = FB15;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f93ec4c3-feb8-456a-befb-8eb589684e06
+Path = 
+Reference = C180;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = f9e3c2d0-2a09-4eb1-b5b4-805d85b8d602
+Path = 
+Reference = C163;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fa63949d-cfb2-4322-aac2-5229e3d5540c
+Path = 
+Reference = R24;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+BeginCmp
+TimeStamp = fd3af179-dee0-4986-a36c-f649e5f1f2c4
+Path = 
+Reference = C134;
+ValeurCmp = 0402;
+IdModule  = Library:CAP_CHIP_0402_W24L44H24_RFL;
+EndCmp
+
+EndListe
