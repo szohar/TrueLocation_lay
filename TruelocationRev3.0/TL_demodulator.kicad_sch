@@ -9559,6 +9559,27 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
+		(at 179.07 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "56641c2b-d12e-4df6-a77d-fda3138c93ed")
+		(property "Netclass" "RF-50ohm"
+			(at 190.5 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
 		(at 306.07 137.16 0)
 		(effects
 			(font
@@ -9611,6 +9632,27 @@
 		(uuid "82d826a2-f7c0-4538-ad1d-b350a6b44781")
 		(property "Netclass" "RF-50ohm"
 			(at 353.06 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 179.07 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "890aa00a-9955-4f21-bcd4-00c9c3a4eabd")
+		(property "Netclass" "RF-50ohm"
+			(at 190.5 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)

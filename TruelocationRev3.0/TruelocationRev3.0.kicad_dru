@@ -1,1 +1,294 @@
+(version 1)
+
+
+(rule "InCourtyard_J3"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('J3')"))
+
+(rule "InCourtyard_U3"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U3')"))
+
+(rule "InCourtyard_D2"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('D2')"))
+
+(rule "InCourtyard_U11"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U11')"))
+
+(rule "InCourtyard_U15"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U15')"))
+
+(rule "InCourtyard_U13"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U13')"))
+
+
+
+(rule "InCourtyard_L3"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('L3')"))
+
+(rule "InCourtyard_C6"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C6')"))
+
+(rule "InCourtyard_C7"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C7')"))
+
+(rule "InCourtyard_C12"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C12')"))
+
+(rule "InCourtyard_C13"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C13')"))
+
+(rule "InCourtyard_L1"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('L1')"))
+
+(rule "InCourtyard_C5"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C5')"))
+
+(rule "InCourtyard_C10"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C10')"))
+
+(rule "InCourtyard_L2"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('L2')"))
+
+
+(rule "InCourtyard_U6"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U6')"))
+
+(rule "InCourtyard_C11"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C11')"))
+
+(rule "InCourtyard_C22"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C22')"))
+
+(rule "InCourtyard_C23"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C23')"))
+
+
+(rule "InCourtyard_C24"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C24')"))
+
+(rule "InCourtyard_T1"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('T1')"))
+
+(rule "InCourtyard_R30"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R30')"))
+
+(rule "InCourtyard_C43"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C43')"))
+
+(rule "InCourtyard_C44"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C44')"))
+
+(rule "InCourtyard_C53"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C53')"))
+
+(rule "InCourtyard_C59"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C59')"))
+
+(rule "InCourtyard_C60"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C60')"))
+
+(rule "InCourtyard_R65"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R65')"))
+
+
+(rule "InCourtyard_C68"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C68')"))
+
+(rule "InCourtyard_C76"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C76')"))
+
+(rule "InCourtyard_C69"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C69')"))
+
+(rule "InCourtyard_C70"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C70')"))
+
+(rule "InCourtyard_C77"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C77')"))
+
+(rule "InCourtyard_R74"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R74')"))
+
+(rule "InCourtyard_R83"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R83')"))
+
+(rule "InCourtyard_R84"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R84')"))
+
+
+(rule "InCourtyard_R82"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R82')"))
+
+(rule "InCourtyard_C85"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C85')"))
+
+(rule "InCourtyard_C97"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C97')"))
+
+(rule "InCourtyard_R107"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R107')"))
+
+(rule "InCourtyard_R108"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R108')"))
+
+(rule "InCourtyard_R109"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('R109')"))
+
+(rule "InCourtyard_C98"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C98')"))
+
+(rule "InCourtyard_C84"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('C84')"))
+
+(rule "InCourtyard_U23"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U23')"))
+
+(rule "InCourtyard_U21"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U21')"))
+
+(rule "InCourtyard_U24"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U24')"))
+
+#(rule "InCourtyard_U18"
+#(severity ignore)
+#   (constraint clearance)
+#	(condition "A.insideCourtyard('U18')"))
+
+#(rule "InCourtyard_T2"
+#(severity ignore)
+#   (constraint clearance)
+#	(condition "A.insideCourtyard('T2')"))
+
+(rule "InCourtyard_U20"
+(severity ignore)
+   (constraint clearance)
+	(condition "A.insideCourtyard('U20') || A.insideCourtyard('T2') || A.insideCourtyard('U18')"))
+
+
+(rule "no_clearance_for_TP8"
+
+    (condition "A.intersectsCourtyard('TP8') && A.Layer=='Edge.Cuts'")
+    (constraint edge_clearance)
+    (severity ignore)
+
+)
+
+(rule no_collision_H5J6
+	(constraint hole_clearance)
+	(condition "A.memberOfFootprint('H5') && B.memberOfFootprint('J6')")
+	(severity ignore)
+)
+
+(rule no_collision_H2H6
+	(constraint hole_to_hole)
+(condition "A.memberOfFootprint('H2') && B.memberOfFootprint('H6')")
+(severity ignore)
+)
+
+(rule no_collision_H3H7	
+(constraint hole_to_hole)
+(condition "A.memberOfFootprint('H3') && B.memberOfFootprint('H7')")
+(severity ignore)
+)
+
+(rule no_collision_J14H8
+	(constraint hole_clearance)
+	(condition "A.memberOfFootprint('J14') && B.memberOfFootprint('H8')")
+	(severity ignore)
+)
+
+
 

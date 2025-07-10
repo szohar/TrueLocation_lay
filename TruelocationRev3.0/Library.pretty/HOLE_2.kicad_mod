@@ -83,7 +83,7 @@
 		(at 0 0)
 		(size 3 3)
 		(drill 3)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "F&B.Cu")
 		(thermal_bridge_angle 90)
 		(uuid "c6107b90-e195-4794-ac18-ef58ab996b45")
 	)
